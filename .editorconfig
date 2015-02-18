@@ -1,0 +1,11 @@
+# http://editorconfig.org
+root = true
+
+[Vagrantfile]
+indent_style = space
+indent_size = 2
+
+[salt/{**.sls,**.conf}]
+indent_style = space
+indent_size = 4
+
